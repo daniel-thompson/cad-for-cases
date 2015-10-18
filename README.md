@@ -9,6 +9,9 @@ acrylic.
 Note that CAD for cases includes cases designed to conform to 96Boards
 specifications but none are not official 96Boards products.
 
+See [this blog post](http://www.redfelineninja.org.uk/daniel/?p=415) to
+read about the genesis of CAD for cases.
+
 Cases for 96Boards Consumer Edition
 -----------------------------------
 
@@ -41,6 +44,6 @@ future.
    with a 100x100mm minimum panel size.
 
    ![CAD drawing](96boards/ce_combo_case.png)
- 
+
 [2]: http://www.seeedstudio.com/service/index.php?r=lasercutting
 [3]: http://www.seeedstudio.com/depot/96Boards-UART-p-2525.html
