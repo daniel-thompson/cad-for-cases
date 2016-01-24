@@ -47,5 +47,22 @@ future.
 
    ![CAD drawing](96boards/ce_combo_case.png)
 
+ * [Side panels](96boards/ce_side_panel.dxf).
+   These components can be stacked up to provide side panels for the
+   case. If manufactured 2.5mm acrylic we need two underneath and three
+   on top to get enough clearance to meet the spec. A 100x100 sheet
+   yields 12 pieces although, in materials with a grain the yield will
+   be 5 matched pairs plus 2 mismatched pieces (due to rotation to fit
+   the last two components onto the panel).
+
+   ![CAD drawing](96boards/ce_side_panel.png)
+
+   Be aware that the side panel components deviate somewhat from the
+   physical specification. The spec. has a keep out radius of 2.5mm from
+   the centre of the drill hole but, for strength, these components have
+   a 3mm radius. Likewise the keep out area is strictly circular and
+   does not extend to the edge of the PCB. Thus if the side panel
+   components do not fit this does not imply the board is non-compliant.
+
 [2]: http://www.seeedstudio.com/service/index.php?r=lasercutting
 [3]: http://www.seeedstudio.com/depot/96Boards-UART-p-2525.html
