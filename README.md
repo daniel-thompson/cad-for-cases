@@ -26,22 +26,24 @@ future.
 
 [1]: https://www.96boards.org/products/ce/
 
- * [Simple case](96boards/ce_simple_case.dxf).  This is a basic case for
-   96Boards Consumer Edition products. It consists of a single panel, 5mm
-   larger on each side than the circuit board, that is suitable for use as
-   either the top or bottom panel for a sandwich-style case. The panel has
-   rounded corners and pre-cut mounting holes.
+ * [Simple case](96boards/ce_simple_case.dxf).
+   This is a basic case for 96Boards Consumer Edition products. It
+   consists of a single panel, 5mm larger on each side than the circuit
+   board, that is suitable for use as either the top or bottom panel for
+   a sandwich-style case. The panel has rounded corners and pre-cut
+   mounting holes.
 
    ![CAD drawing](96boards/ce_simple_case.png)
 
  * [100mm combo-case](96boards/ce_combo_case.dxf).
-   This case is designed to fit into a 100x100mm panel, the smallest size
-   offered by [Seeed Studio][2]). It contains the same cuts as the simple case,
-   above, together with a second component that can be used as a half top. The
-   half-top is offers much less protection to the main board but provides easy
-   access to the LS connector and allows the [96Boards UART][3] to be fitted
-   easily. The half-top is essentially a free bonus extra for cutting services
-   with a 100x100mm minimum panel size.
+   This case is designed to fit into a 100x100mm panel, the smallest
+   size offered by [Seeed Studio][2]). It contains the same cuts as the
+   simple case, above, together with a second component that can be used
+   as a half top. The half-top is offers much less protection to the
+   main board but provides easy access to the LS connector and allows
+   the [96Boards UART][3] to be fitted easily. The half-top is
+   essentially a free bonus extra for cutting services with a 100x100mm
+   minimum panel size.
 
    ![CAD drawing](96boards/ce_combo_case.png)
 
