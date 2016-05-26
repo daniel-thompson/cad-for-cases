@@ -24,6 +24,9 @@ height limit. As it happens none of the announced boards take advantage of this
 option so cases with side panels are still an interesting option for the
 future.
 
+![96Boards CE combo-case with side
+panels](96boards/ce_combo_case-plywood_and_acrylic.jpg)
+
 [1]: https://www.96boards.org/products/ce/
 
  * [Simple case](96boards/ce_simple_case.dxf).
